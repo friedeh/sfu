@@ -1,0 +1,54 @@
+---
+title: "Trainingspläne"
+subtitle: "für die Schwimmfreunde Unna"
+title-block-banner: true
+format: html
+theme: cerulean
+editor: visual
+---
+
+::: panel-tabset
+## Trainingspläne für 8 bis 12-jährige
+
+### Dienstag, 28.11.2023
+
+**Einschwimmen:**
+
+-   200 m Brust
+
+-   100 m Kraul
+
+-   50 m Rücken
+
+-   25 m Delfin + 25 m altdeutsch Rücken
+
+**Technik:**
+
+-   8 x 25 m nach Ansage
+
+50 m altdeutsch Rücken
+
+**Ausdauer:**
+
+-   200 m Kraul
+
+-   100 m Brust
+
+-   50 m Delfin
+
+-   25 m Rücken + 25 m altdeutsch Rücken
+
+**Wettkampf:**
+
+-   4 x 25 m Kraul
+
+-   4 x 25 m Kraul
+
+-   4 x 25 m Lagen
+
+**Gesamtstrecke: 1.300 m**
+
+## Trainingspläne für 12 bis 15-jährige
+
+ab Januar 2024
+:::
